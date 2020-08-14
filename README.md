@@ -32,10 +32,11 @@ It is important to think about individuals who may be color blind when thinking 
 
 3. How would you explain the concept of a variable to someone new to programming?
 
- Variables are used in JavaScript as a way to store, change and use data in code. 
+ Variables are used in JavaScript as a way to name a container of information so that later you can access this information by simply calling the name of the container.
 
 4. What is the purpose of using functions in code?
 
+ Using a function allos you to repeat sections of code. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
