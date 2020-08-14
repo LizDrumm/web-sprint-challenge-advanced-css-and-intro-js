@@ -36,7 +36,7 @@ It is important to think about individuals who may be color blind when thinking 
 
 4. What is the purpose of using functions in code?
 
- Using a function allos you to repeat sections of code. 
+ Using a function allows you to repeat sections of code by passing through different arguements. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
